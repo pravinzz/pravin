@@ -47,7 +47,9 @@ To get started with my blog:
 
 
 2. **Navigate to the Project Directory**:
-cd personal-blog
+ ```bash
+   cd personal-blog
+
 
 
 3. 📫 Contact
