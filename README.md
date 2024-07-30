@@ -53,6 +53,7 @@ To get started with my blog:
 
 
 3. 📫 Contact
+ ```bash
 For any inquiries or just to say hi, you can reach me at pravins1848@gmail.com.
 
 Thank you for visiting my blog, and I hope you enjoy the content!
